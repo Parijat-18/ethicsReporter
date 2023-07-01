@@ -83,7 +83,8 @@ def getSubParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx , 
                 response[key] = value
         
         return response
-    except:
+    except Exception as e:
+        print('Error: ' , e)
         print('Failed to retrieve a response. Try Again...\n')
         return None
 
@@ -159,7 +160,8 @@ def getParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx, llm=
                 response[key] = value
         
         return response
-    except:
+    except Exception as e:
+        print('Error: ' , e)
         print('Failed to retrieve a response. Try Again...\n')
         return None
 
