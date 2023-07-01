@@ -6,7 +6,7 @@ import json
 
 load_dotenv()
 
-llm = OpenAI(temperature=0.8)
+llm = OpenAI(temperature=0.2)
 
 def getSubParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx , subParamIdx , llm=llm):
 
