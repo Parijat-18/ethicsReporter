@@ -19,18 +19,18 @@ def getSubParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx , 
     template = """
     Your task is to analyse and then score `{{user}}` for how ethical his/her \
     conversation was based on the parameter `{{parameter}}` to {{parameterDefinition}}. The conversation is given \
-    between the ``` columns:
+    between the triple backticks:
     "
     Conversation: ```{{conversation}}```
     "
 
-    Below is the subparameter in a json format between ``` which you need to score \
+    Below is the subparameter in a json format between triple backticks ``` which you need to score \
     between 0 and 1 with 0.5 being neutral by following the rules. \
     "
     Subparameter: ``` {{subparameter}} ```
     "
 
-    Follow the rules given between ``` accurately to analyze and score each subparameter:
+    Follow the rules given between triple backticks accurately to analyze and score each subparameter:
     "
     Rules: ```{{rules}}```
     "
@@ -99,18 +99,18 @@ def getParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx, llm=
 
     template = """
         Your task is to analyse the conversation of `{{user}}` based on the parameter `{{parameter}}` to {{parameterDefinition}}. \
-        The conversation is given between the ``` columns:
+        The conversation is given between the triple backticks:
         "
         Conversation: ```{{conversation}}```
         "
 
-        You are provided with the analyses of the subparameters in a json format between ``` which you need to use to generate \
+        You are provided with the analyses of the subparameters in a json format between triple backticks which you need to use to generate \
         the final parameter analysis.:
         "
         Subparameters: ``` {{subparameters}} ```
         "
 
-        Follow the rules given between ``` accurately to analyze the parameter:
+        Follow the rules given between triple backticks accurately to analyze the parameter:
         "
         Rules: ```{{rules}}```
         "
