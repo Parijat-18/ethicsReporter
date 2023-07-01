@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+}
+
+.container {
+    width: 80%;
+    margin: 2em auto;
+    padding: 2em;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.total-score {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.score-ethical {
+    color: green;
+}
+
+.score-unethical {
+    color: red;
+}
+
+.parameter {
+    border: 2px solid #ccc;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    background: #a6d4fa; /* light blue */
+}
+
+.parameter > h2 {
+    color: #007BFF;
+    margin-bottom: 20px;
+}
+
+.subparameter {
+    border: 2px solid #ccc;
+    margin: 20px 40px;
+    padding: 20px;
+    border-radius: 5px;
+    background: #d0f0fd; /* lighter shade of blue */
+}
+
+.subparameter > h4 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+.analysis {
+    font-weight: bold;
+}
+
+.rules {
+    color: #6c757d;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    border-radius: 5px;
+    background: #f2f2f2;
+}

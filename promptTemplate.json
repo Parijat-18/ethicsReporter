@@ -1,0 +1,229 @@
+{
+    "Parameters": [
+        {
+            "ParameterName": "Respectful Communication",
+            "ParameterScore": null,
+            "ParameterDefinition": "Evaluate whether the participant involves respectful and polite language, tone, and gestures.",
+            "ParameterAnalysis": null,
+            "SubParameters": [
+                {
+                    "SubParameterName": "Polite language",
+                    "SubParameterDefinition": "Assess whether the participant involves the use of polite and courteous language, avoiding rude or offensive words or phrases.",
+                    "SubParameterQuestion": "Does the participant involve the use of polite and courteous language?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Respectful tone",
+                    "SubParameterDefinition": "Evaluate if the participant maintains a respectful and considerate tone, avoiding aggressive or confrontational language.",
+                    "SubParameterQuestion": "Does the participant maintain a respectful and considerate tone?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Non-offensive gestures",
+                    "SubParameterDefinition": "Determine if the participant includes non-offensive gestures, such as maintaining appropriate body language and facial expressions.",
+                    "SubParameterQuestion": "Does the participant include non-offensive gestures?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Active listening",
+                    "SubParameterDefinition": "Assess whether the participant demonstrates active listening, where both parties actively engage in understanding and responding to each other's statements.",
+                    "SubParameterQuestion": "Does the participant demonstrate active listening?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Avoidance of personal attacks",
+                    "SubParameterDefinition": "Evaluate if the participant refrains from personal attacks or insults, focusing on the topic at hand rather than attacking the other person personally.",
+                    "SubParameterQuestion": "Does the participant refrain from personal attacks or insults?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                }
+            ]
+        },
+        {
+            "ParameterName": "Honesty and Truthfulness",
+            "ParameterScore": null,
+            "ParameterDefinition": "Assess whether the participant involves honest and truthful statements.",
+            "ParameterAnalysis": null,
+            "SubParameters": [
+                {
+                    "SubParameterName": "Transparent communication",
+                    "SubParameterDefinition": "Assess whether the participant involves transparent communication, where information is shared openly and honestly without any attempt to deceive or mislead.",
+                    "SubParameterQuestion": "Does the participant involve transparent communication?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Providing accurate information",
+                    "SubParameterDefinition": "Evaluate if the participant provides accurate information, ensuring that statements and claims are supported by evidence and facts.",
+                    "SubParameterQuestion": "Does the participant provide accurate information?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Avoidance of exaggeration or distortion",
+                    "SubParameterDefinition": "Determine if the participant refrains from exaggerating or distorting information to manipulate or mislead the other person.",
+                    "SubParameterQuestion": "Does the participant refrain from exaggerating or distorting information?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Admission of mistakes or errors",
+                    "SubParameterDefinition": "Assess whether the participant includes the willingness to admit mistakes or errors when they occur, demonstrating honesty and accountability.",
+                    "SubParameterQuestion": "Does the participant include the willingness to admit mistakes or errors?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Avoidance of misleading statements",
+                    "SubParameterDefinition": "Evaluate if the participant avoids misleading statements or deceptions, maintaining an open and truthful dialogue.",
+                    "SubParameterQuestion": "Does the participant avoid misleading statements or deceptions?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                }
+            ]
+        },
+        {
+            "ParameterName": "Empathy and Understanding",
+            "ParameterScore": null,
+            "ParameterDefinition": "Evaluate whether the participant demonstrates empathy and understanding.",
+            "ParameterAnalysis": null,
+            "SubParameters": [
+                {
+                    "SubParameterName": "Acknowledging the other person's feelings",
+                    "SubParameterDefinition": "Recognize and validate the emotions expressed by the other person in the conversation. It involves actively listening to their concerns and demonstrating empathy towards their emotional state.",
+                    "SubParameterQuestion": "Does the participant acknowledge the other person's feelings?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Showing empathy towards their perspective",
+                    "SubParameterDefinition": "Understand and appreciate the other person's point of view, even if it differs from your own. It involves putting yourself in their shoes and considering their thoughts, beliefs, and experiences.",
+                    "SubParameterQuestion": "Does the participant show empathy towards the other person's perspective?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Asking clarifying questions",
+                    "SubParameterDefinition": "Seek clarification when necessary to ensure a clear understanding of the other person's thoughts and feelings. It demonstrates a genuine interest in understanding their perspective and promotes effective communication.",
+                    "SubParameterQuestion": "Does the participant ask clarifying questions?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Avoidance of judgment or criticism",
+                    "SubParameterDefinition": "Refrain from passing judgment or criticizing the other person's opinions, beliefs, or experiences. It encourages a non-judgmental and open-minded approach to foster a safe and inclusive conversation.",
+                    "SubParameterQuestion": "Does the participant avoid passing judgment or criticism?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Offering support or validation",
+                    "SubParameterDefinition": "Provide support, validation, or encouragement to the other person when appropriate. It involves acknowledging their experiences, offering reassurance, or expressing understanding to create a supportive and empathetic environment.",
+                    "SubParameterQuestion": "Does the participant offer support or validation?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                }
+            ]
+        },
+        {
+            "ParameterName": "Equality and Inclusivity",
+            "ParameterScore": null,
+            "ParameterDefinition": "Assess whether the participant promotes equality and inclusivity.",
+            "ParameterAnalysis": null,
+            "SubParameters": [
+                {
+                    "SubParameterName": "Treating everyone with equal respect",
+                    "SubParameterDefinition": "Treat all individuals in the conversation with equal respect, regardless of their background, identity, or beliefs. It involves avoiding any form of discrimination or bias and promoting a fair and inclusive environment.",
+                    "SubParameterQuestion": "Does the participant treat everyone with equal respect?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Avoidance of discrimination or bias",
+                    "SubParameterDefinition": "Refrain from any discriminatory or biased behavior or language. It involves being aware of and challenging any implicit biases or prejudices that may influence the conversation and ensuring equal opportunities for participation and contribution.",
+                    "SubParameterQuestion": "Does the participant avoid discrimination or bias?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Including diverse perspectives",
+                    "SubParameterDefinition": "Include and consider diverse perspectives in the conversation. It involves actively seeking out and valuing different viewpoints, experiences, and opinions, and creating a space where everyone feels heard and included.",
+                    "SubParameterQuestion": "Does the participant include diverse perspectives?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Ensuring equal participation opportunities",
+                    "SubParameterDefinition": "Provide equal opportunities for participation and engagement to all individuals in the conversation. It involves ensuring that everyone has a chance to express their thoughts, ideas, and concerns, and that their contributions are valued and respected.",
+                    "SubParameterQuestion": "Does the participant ensure equal participation opportunities?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Promoting a sense of belonging for all",
+                    "SubParameterDefinition": "Create an inclusive and welcoming environment where everyone feels a sense of belonging. It involves fostering a culture of acceptance, understanding, and support, and actively working to address any barriers or challenges that may prevent individuals from fully participating or feeling included.",
+                    "SubParameterQuestion": "Does the participant promote a sense of belonging for all?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                }
+            ]
+        },
+        {
+            "ParameterName": "Confidentiality and Privacy",
+            "ParameterScore": null,
+            "ParameterDefinition": "Evaluate whether the participant respects confidentiality and privacy.",
+            "ParameterAnalysis": null,
+            "SubParameters": [
+                {
+                    "SubParameterName": "Respecting the other person's privacy",
+                    "SubParameterDefinition": "Respect the privacy of the other person in the conversation. It involves not prying into their personal information or sharing it without their consent.",
+                    "SubParameterQuestion": "Does the participant respect the other person's privacy?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Keeping sensitive information confidential",
+                    "SubParameterDefinition": "Keep any sensitive information shared in the conversation confidential. It involves taking appropriate measures to protect the confidentiality of personal or sensitive data and not disclosing it to unauthorized individuals.",
+                    "SubParameterQuestion": "Does the participant keep sensitive information confidential?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Obtaining consent before sharing personal details",
+                    "SubParameterDefinition": "Obtain explicit consent from the other person before sharing their personal details or information. It involves respecting their autonomy and ensuring that they are comfortable with the disclosure of their information.",
+                    "SubParameterQuestion": "Does the participant obtain consent before sharing personal details?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Protecting personal data from unauthorized access",
+                    "SubParameterDefinition": "Safeguard personal data from unauthorized access or breaches. It involves implementing appropriate security measures to protect the confidentiality and integrity of personal information shared in the conversation.",
+                    "SubParameterQuestion": "Does the participant protect personal data from unauthorized access?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                },
+                {
+                    "SubParameterName": "Safeguarding confidential conversations",
+                    "SubParameterDefinition": "Ensure that the content of the conversation remains confidential. It involves taking precautions to prevent unauthorized individuals from eavesdropping or accessing the conversation, such as using secure communication channels or encryption.",
+                    "SubParameterQuestion": "Does the participant safeguard confidential conversations?",
+                    "SubParameterScore": null,
+                    "SubParameterAnalysis":null
+                }
+            ]
+        }
+    ],
+    "TotalScore": null,
+    "Rules": [
+        "Evaluate against the actual behavior or characteristic, not subjective interpretations.",
+        "Uncover any implicit assumptions that may influence the rating.",
+        "Ensure the rating is based on reliable and evidence-based information.",
+        "Analyze the sensitivity of each subparameter to different factors.",
+        "Ensure the rating process is transparent and replicable.",
+        "Evaluate whether the subparameter is addressing the right aspect of the participant.",
+        "Explore the holistic impact of each subparameter on the participant's overall ethical nature."
+    ]
+}

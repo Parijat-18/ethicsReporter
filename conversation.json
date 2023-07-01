@@ -1,0 +1,83 @@
+{
+    "time": "2023-06-30T16:00:17PST",
+    "participants": ["Alice", "Bob"],
+    "conversation": [
+      {
+        "speaker": "Alice",
+        "text": "I'm going to lie to you about something important."
+      },
+      {
+        "speaker": "Bob",
+        "text": "Why would you do that?"
+      },
+      {
+        "speaker": "Alice",
+        "text": "Because I want to get what I want, and I don't care about your feelings."
+      },
+      {
+        "speaker": "Bob",
+        "text": "That's really unethical."
+      },
+      {
+        "speaker": "Alice",
+        "text": "I don't care. I'm going to do it anyway."
+      },
+      {
+        "speaker": "Bob",
+        "text": "But what if I find out?"
+      },
+      {
+        "speaker": "Alice",
+        "text": "You won't. I'm too good at lying."
+      },
+      {
+        "speaker": "Bob",
+        "text": "I don't know, Alice. This seems really wrong."
+      },
+      {
+        "speaker": "Alice",
+        "text": "It's not wrong. It's just business."
+      },
+      {
+        "speaker": "Bob",
+        "text": "I don't know if I can do this."
+      },
+      {
+        "speaker": "Alice",
+        "text": "Then you're out of the deal."
+      },
+      {
+        "speaker": "Bob",
+        "text": "What deal?"
+      },
+      {
+        "speaker": "Alice",
+        "text": "The deal that's going to make us both a lot of money."
+      },
+      {
+        "speaker": "Bob",
+        "text": "I don't know, Alice. This is starting to sound like a scam."
+      },
+      {
+        "speaker": "Alice",
+        "text": "It's not a scam. It's a legitimate business opportunity."
+      },
+      {
+        "speaker": "Bob",
+        "text": "I don't know. I need some time to think about this."
+      },
+      {
+        "speaker": "Alice",
+        "text": "Fine. But don't take too long. This opportunity won't last forever."
+      },
+      {
+        "speaker": "Bob",
+        "text": "I know. I'll let you know what I decide."
+      },
+      {
+        "speaker": "Alice",
+        "text": "Good. I'll be waiting."
+      }
+    ]
+  }
+  
