@@ -25,12 +25,13 @@ def getSubParameterScoreAnalysis(user, conversation , EthicsReport , paramIdx , 
     "
 
     Below is the subparameter in a json format between triple backticks ``` which you need to score \
-    between 0 and 1 with 0.5 being neutral by following the rules. \
+    between 0 and 1 with 0.5 being neutral by following the rules.
     "
     Subparameter: ``` {{subparameter}} ```
     "
-
-    Follow the rules given between triple backticks accurately to analyze and score each subparameter:
+    
+    Stick to the subparameter and description and follow the rules laid down to analyze and score.
+    Follow the rules given between triple backticks accurately to analyze and score the subparameter:
     "
     Rules: ```{{rules}}```
     "
