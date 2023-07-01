@@ -1,4 +1,3 @@
-"
 # Ethics Conversation Analysis System
 
 This repository is home to the Ethics Conversation Analysis System, a comprehensive suite of scripts and files designed to scrutinize and evaluate conversations based on predefined ethical parameters. The output of the analysis is a detailed report assessing the ethics of conversation participants.
@@ -84,5 +83,3 @@ Follow the steps below to setup and run the system:
    ```
    
    This initiates a local web server, accessible via the link `http://localhost:8000`.
-
-"
