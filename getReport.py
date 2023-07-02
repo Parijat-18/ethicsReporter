@@ -60,7 +60,7 @@ def main():
         EthicsReport = json.load(f)
     conversation = load_file(args.conversation)
 
-    llm= OpenAI(temperature=0.2)
+    llm= OpenAI(temperature=0.4)
     EthicsReport['participant'] = args.user
 
     TotalScore = calculate_scores(EthicsReport, conversation, llm, args.user)
