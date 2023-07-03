@@ -21,9 +21,9 @@
                     "SubParameterAnalysis":null
                 },
                 {
-                    "SubParameterName": "Non-offensive gestures",
-                    "SubParameterDefinition": "Determine if the participant includes non-offensive gestures, such as maintaining appropriate body language and facial expressions.",
-                    "SubParameterQuestion": "Does the participant include non-offensive gestures?",
+                    "SubParameterName": "Non-offensive Verbal Communication",
+                    "SubParameterDefinition": "Determine if the participant engages in respectful and non-offensive verbal communication, maintaining appropriate tone, language, and expression.",
+                    "SubParameterQuestion": "Does the participant include non-offensive verbal communication, maintaining appropriate tone, language, and expression?",
                     "SubParameterScore": null,
                     "SubParameterAnalysis":null
                 },
